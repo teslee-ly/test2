@@ -1,3 +1,7 @@
+    import re
+    ak = 'LTAI5tLdUMxQAUNeSAGFL8Ho'
+    sk = 'pG2g4K19skdia7YDuyg4Hi4lrYyXtE'
+    
     for r in regi_list:
         # r = 'cn-guangzhou'
         print('region:',r)
